@@ -1,0 +1,12 @@
+# Mac file
+.DS_Store
+
+# idea
+.idea/
+
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+venv/
